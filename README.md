@@ -1,6 +1,8 @@
 The main point to make this script was an easy storage of small numbers (like pin-codes or similar).
 So it's quite easy to use:
 
+### [Github pages example](https://lunat1q.github.io/TrickyBase58Numbers/)
+
 - Open the website
 - Enter your code word `(aka password)`
 - Enter the digit you want to encode to the top textbox, they are quite large in default layout to be used on the smartphone
